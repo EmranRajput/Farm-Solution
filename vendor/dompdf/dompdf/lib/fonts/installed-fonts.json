@@ -1,0 +1,20 @@
+{
+    "inter": {
+        "100": "\/var\/www\/html\/vendor\/dompdf\/dompdf\/lib\/fonts\/inter_100_e28ff0ba5d2b1a0d9870187024e25b42",
+        "300": "\/var\/www\/html\/vendor\/dompdf\/dompdf\/lib\/fonts\/inter_300_e4c9b64172e62d24ee5f222199ce2d2c",
+        "normal": "\/var\/www\/html\/vendor\/dompdf\/dompdf\/lib\/fonts\/inter_normal_4f95092608a03c140dccd33606c19f31",
+        "500": "\/var\/www\/html\/vendor\/dompdf\/dompdf\/lib\/fonts\/inter_500_3f435dc727a887d3a9c0ddd0afecf691",
+        "600": "\/var\/www\/html\/vendor\/dompdf\/dompdf\/lib\/fonts\/inter_600_9bfe13c942a9c8fb0ff92d25ab822ed4",
+        "bold": "inter_bold_8e796d6a87340143ae66c4104836364f"
+    },
+    "tabler-icons": {
+        "normal": "tabler_icons_normal_697620669ea16e96cd3e6aad0674ac0f"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_b2568a1bd4de36322c1d3e5c091c7923"
+    },
+    "font awesome 5 free": {
+        "normal": "\/var\/www\/html\/vendor\/dompdf\/dompdf\/lib\/fonts\/font_awesome_5_free_normal_8701a0267ab0f16e264faf4127362f0b",
+        "900": "font_awesome_5_free_900_77e53ad0a286d0f656648df37aa4d57d"
+    }
+}
